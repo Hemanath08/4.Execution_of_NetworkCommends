@@ -72,4 +72,4 @@ print(result,unans)
 ![image](https://github.com/Hemanath08/4.Execution_of_NetworkCommends/assets/151807176/252dcbf8-4ee5-4725-8bd6-1d9336f67fc5)
 
 ## RESULT
-Thus Execution of Network commands Performed 
+

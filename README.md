@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+Name:K.Hemanath
+Register No:212223100012
 ## AIM :Use of Network commands in Real Time environment
 ## SOFTWARE : Command Prompt And Network Protocol Analyzer
 ## PROCEDURE: To do this EXPERIMENT- follows these steps:
